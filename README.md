@@ -8,10 +8,10 @@ Commentariu de commit
 
 Prima modificare
 
-A treia modificare
+A treia modificare 2
 
 Modificare pe main
 
 ## Modificare coleg
 
-Adaug si aici ceva!
+Adaug si eu ceva.
